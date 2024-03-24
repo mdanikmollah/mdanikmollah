@@ -17,7 +17,7 @@ Skills:  FIREBASEDB/MONGODB/EXPRESS JS/NODE JS/NEXT JS/REACT JS / JS /TAILWIND C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdanikmollah&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mdanikmollah)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdanikmollah)  
 
