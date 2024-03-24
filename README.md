@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Mohammad Anik Mollah
-#### I am MERN stack developer
-Hi, I'm Mohammad Anik Mollah, a passionate MERN stack developer with expertise in HTML, CSS ,Tailwind.css,Bootstarp, Javascript, React.js, Next.js, Node.js, Express.js, FirebaseDB and MongoDB. I give my best services for my client and company. Company satisfaction is my main goal. 
+#### A passionate MERN Stack Developer from Bangladesh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
