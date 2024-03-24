@@ -12,7 +12,7 @@ Skills:  FIREBASEDB/MONGODB/EXPRESS JS/NODE JS/NEXT JS/REACT JS / JS /TAILWIND C
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **EXPRESS JS**
+- 🌱 I’m currently learning **Android studio**
 
 - 📫 How to reach me **mdanik0178@gmail.com**
 
