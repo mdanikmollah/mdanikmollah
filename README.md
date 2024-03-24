@@ -11,7 +11,7 @@ Skills:  FIREBASEDB/MONGODB/EXPRESS JS/NODE JS/NEXT JS/REACT JS / JS /TAILWIND C
 - ⚡ Fun fact: Travelling 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdanikmollah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md Anik)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdanikmollah)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdanikmollah)](https://github.com/anuraghazra/github-readme-stats)
 
