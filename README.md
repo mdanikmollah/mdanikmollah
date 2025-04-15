@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Mohammad Anik Mollah
 #### A passionate MERN Stack Developer from Bangladesh
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdanikmollah&label=Profile%20views&color=0e75b6&style=flat" alt="mdanikmollah" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
